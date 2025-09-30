@@ -24,7 +24,7 @@ This repository contains my **E-Portfolio** developed as part of **SC1172: Intro
 
 ## Live Website
 
-**Portfolio URL:** [https://sakithma.github.io](https://sakithma.github.io)
+**Portfolio URL:** [https://sakithmarajapaksha.github.io](https://sakithmarajapaksha.github.io)
 
 
 ## 👤 About Me
@@ -82,6 +82,6 @@ This project is for educational purposes as part of SC1172: Introduction to Info
 
 **Sakithma Rajapaksha**  
 📧 Email: [sakithmarajapaksha04@gmail.com](mailto:sakithmarajapaksha04@gmail.com)  
-🌐 Portfolio: [https://sakithma.github.io](https://sakithma.github.io)
+🌐 Portfolio: [https://sakithmarajapaksha.github.io](https://sakithmarajapaksha.github.io)
 
 ---
