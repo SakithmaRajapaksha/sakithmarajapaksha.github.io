@@ -14,6 +14,13 @@ url: "https://sakithma.github.io" # the base hostname & protocol for your site, 
 twitter_username: sakithma
 github_username: sakithma
 
+# Author Information
+author:
+  name: Sakithma Rajapaksha
+  email: sakithma@example.com
+  bio: "Biotechnology Undergraduate at SLIIT | Passionate about Science & Technology"
+  avatar: /assets/images/profile.jpg
+
 # Build Settings
 markdown: kramdown
 highlighter: rouge
@@ -22,6 +29,26 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-paginate
+
+# Custom CSS
+custom_css:
+  - /assets/css/style.css
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: About
+    url: /#about
+  - title: Education
+    url: /#education
+  - title: Projects
+    url: /#projects
+  - title: Skills
+    url: /#skills
+  - title: Contact
+    url: /#contact
 
 # Exclude from processing
 exclude:
@@ -65,21 +92,6 @@ social:
     - mailto:sakithma@example.com
     - https://linkedin.com/in/sakithma
 
-# Navigation
-navigation:
-  - title: About
-    url: /#about
-  - title: Education
-    url: /#education
-  - title: Experience
-    url: /#experience
-  - title: Projects
-    url: /#projects
-  - title: Skills
-    url: /#skills
-  - title: Contact
-    url: /#contact
-
 # SEO
 seo:
   type: Person
@@ -87,3 +99,17 @@ seo:
   job_title: Biotechnology Undergraduate
   description: First-year Biotechnology student at SLIIT with interests in science, technology, and community service
   image: /assets/images/profile.jpg
+
+# Portfolio Settings
+portfolio:
+  hero_title: "Hello, I'm Sakithma Rajapaksha"
+  hero_subtitle: "Biotechnology Undergraduate | SLIIT"
+  hero_description: "Passionate about Science & Technology"
+  
+# Theme Customization
+minima:
+  skin: dark
+  social_links:
+    github: sakithma
+    linkedin: sakithma
+    email: sakithma@example.com
