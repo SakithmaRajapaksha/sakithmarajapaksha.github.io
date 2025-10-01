@@ -9,7 +9,7 @@ This repository contains my **E-Portfolio** developed as part of **SC1172: Intro
 ## Project Overview
 
 ### **Assignment Requirements**
-- **GitHub Repository** - `your_username.github.io`
+- **GitHub Repository** - `sakithmarajapaksha.github.io`
 - **Markdown Files** - Content management and documentation
 - **HTML** - Professional portfolio website
 - **GitHub Pages** - Live website hosting
